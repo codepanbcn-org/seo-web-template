@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Example · TODO(setup) phrase with the main keyword",
+    "description": "TODO(setup) Site description, 120-160 characters, with the location and what is offered."
+  },
+  "nav": {
+    "label": "Main",
+    "home": "Home",
+    "about": "About us",
+    "privacy": "Privacy policy"
+  },
+  "localeSwitcher": {
+    "label": "Language",
+    "es": "Español",
+    "en": "English"
+  },
+  "home": {
+    "heading": "TODO(setup) Main heading (H1)",
+    "intro": "TODO(setup) Intro paragraph. Important text must be in the HTML, not only in images or PDFs.",
+    "cta": "About us"
+  },
+  "about": {
+    "metaTitle": "About us",
+    "metaDescription": "TODO(setup) Description of this page, 120-160 characters.",
+    "heading": "About us",
+    "body": "TODO(setup) Page content."
+  },
+  "privacy": {
+    "metaTitle": "Privacy policy",
+    "heading": "Privacy policy",
+    "body": "TODO(setup) Legal text."
+  },
+  "notFound": {
+    "metaTitle": "Page not found",
+    "heading": "Page not found",
+    "body": "The page you are looking for does not exist or has moved.",
+    "backHome": "Back to home"
+  }
+}

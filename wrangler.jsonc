@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // TODO(setup): Worker name, shown in the Cloudflare dashboard and in the *.workers.dev URL.
+  "name": "seo-web-template",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      // Must match "name" above.
+      "service": "seo-web-template"
+    }
+  ],
+  "observability": { "enabled": true }
+}

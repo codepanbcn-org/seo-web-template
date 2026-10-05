@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Example · TODO(setup) frase con la palabra clave principal",
+    "description": "TODO(setup) Descripción del sitio, 120-160 caracteres, con la ubicación y lo que se ofrece."
+  },
+  "nav": {
+    "label": "Principal",
+    "home": "Inicio",
+    "about": "Sobre nosotros",
+    "privacy": "Política de privacidad"
+  },
+  "localeSwitcher": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "home": {
+    "heading": "TODO(setup) Titular principal (H1)",
+    "intro": "TODO(setup) Párrafo de introducción. El texto importante debe estar en el HTML, no solo en imágenes o PDFs.",
+    "cta": "Conócenos"
+  },
+  "about": {
+    "metaTitle": "Sobre nosotros",
+    "metaDescription": "TODO(setup) Descripción de esta página, 120-160 caracteres.",
+    "heading": "Sobre nosotros",
+    "body": "TODO(setup) Contenido de la página."
+  },
+  "privacy": {
+    "metaTitle": "Política de privacidad",
+    "heading": "Política de privacidad",
+    "body": "TODO(setup) Texto legal."
+  },
+  "notFound": {
+    "metaTitle": "Página no encontrada",
+    "heading": "Página no encontrada",
+    "body": "La página que buscas no existe o ha cambiado de dirección.",
+    "backHome": "Volver al inicio"
+  }
+}
